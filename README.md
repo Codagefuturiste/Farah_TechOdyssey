@@ -1,6 +1,6 @@
-# 🌟 Farah's Tech Odyssey
+# 🌸  Farah's Tech Odyssey
 
-## 👩‍🎓 Who am I?
+## 👩‍💻 Who am I?
 
 A Bachelor's graduate in Information Systems and Software Engineering (ISIL) 🌸 🖥️  
 and a current Master's student in Networks & Telecommunications (RT 🌐📡)  
