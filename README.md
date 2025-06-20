@@ -1,7 +1,8 @@
-# 🌸  Farah's Tech Odyssey
+# 🌸 Farah's Tech Odyssey
 
-## 👩‍💻 Who am I?
+ Hi, I'm Bouzaghou Karima Farah) 👩‍💻
 
-A Bachelor's graduate in Information Systems and Software Engineering (ISIL) 🌸 🖥️  
-and a current Master's student in Networks & Telecommunications (RT 🌐📡)  
-at Ibn Khaldoun University of Tiaret.
+🌸 About me:
+. 🎓 Software and Information Systems Engineering (ISIL) Graduate – University of Tiaret
+- 📚 Currently studying Master’s in RT (Networks & Telecommunications)
+- 🏙️ From Tiaret, Algeria 🇩🇿
